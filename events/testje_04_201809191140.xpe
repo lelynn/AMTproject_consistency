@@ -1,0 +1,16 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 11:40:04
+#sha1: 1e9bff
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+10792,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+10792,design,logged,
+10792,Experiment,started
+10795,Stimulus,presented,0
+10796,Stimulus,presented,1
+11798,Experiment,ended
+11802,Stimulus,presented,3

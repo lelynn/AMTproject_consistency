@@ -1,0 +1,95 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 14:20:13
+#sha1: ef4709
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11392,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11392,design,logged,
+11393,Experiment,started
+11469,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+12561,stdout,received,'size 1 (1280, 720)'
+12561,Video,playing,videos/zEyRyTnIw5I.004.mp4
+12622,Stimulus,presented,2
+12672,Stimulus,presented,2
+12715,Stimulus,presented,2
+12764,Stimulus,presented,2
+12815,Stimulus,presented,2
+12857,Stimulus,presented,2
+12900,Stimulus,presented,2
+12951,Stimulus,presented,2
+12988,Stimulus,presented,2
+13030,Stimulus,presented,2
+13071,Stimulus,presented,2
+13114,Stimulus,presented,2
+13153,Stimulus,presented,2
+13194,Stimulus,presented,2
+13233,Stimulus,presented,2
+13277,Stimulus,presented,2
+13322,Stimulus,presented,2
+13367,Stimulus,presented,2
+13407,Stimulus,presented,2
+13446,Stimulus,presented,2
+13487,Stimulus,presented,2
+13528,Stimulus,presented,2
+13582,Stimulus,presented,2
+13624,Stimulus,presented,2
+13671,Stimulus,presented,2
+13715,Stimulus,presented,2
+13757,Stimulus,presented,2
+13806,Stimulus,presented,2
+13847,Stimulus,presented,2
+13889,Stimulus,presented,2
+13931,Stimulus,presented,2
+13979,Stimulus,presented,2
+14024,Stimulus,presented,2
+14065,Stimulus,presented,2
+14108,Stimulus,presented,2
+14149,Stimulus,presented,2
+14191,Stimulus,presented,2
+14232,Stimulus,presented,2
+14279,Stimulus,presented,2
+14321,Stimulus,presented,2
+14366,Stimulus,presented,2
+14408,Stimulus,presented,2
+14447,Stimulus,presented,2
+14489,Stimulus,presented,2
+14529,Stimulus,presented,2
+14569,Stimulus,presented,2
+14619,Stimulus,presented,2
+14672,Stimulus,presented,2
+14718,Stimulus,presented,2
+14759,Stimulus,presented,2
+14799,Stimulus,presented,2
+14841,Stimulus,presented,2
+14880,Stimulus,presented,2
+14922,Stimulus,presented,2
+14963,Stimulus,presented,2
+15007,Stimulus,presented,2
+15046,Stimulus,presented,2
+15087,Stimulus,presented,2
+15128,Stimulus,presented,2
+15169,Stimulus,presented,2
+15212,Stimulus,presented,2
+15251,Stimulus,presented,2
+15292,Stimulus,presented,2
+15333,Stimulus,presented,2
+15375,Stimulus,presented,2
+15414,Stimulus,presented,2
+15453,Stimulus,presented,2
+15495,Stimulus,presented,2
+15534,Stimulus,presented,2
+15582,Stimulus,presented,2
+15627,Stimulus,presented,2
+15667,Stimulus,presented,2
+15716,Stimulus,presented,2
+15764,Stimulus,presented,2
+15812,Stimulus,presented,2
+15856,Stimulus,presented,2
+15899,Stimulus,presented,2
+15903,stdout,received,'100'
+16058,Experiment,ended
+16075,Stimulus,presented,3

@@ -1,0 +1,33 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 22:54:00
+#sha1: bca74e
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+15992,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+15993,design,logged,
+15993,Experiment,started
+16692,Video,playing,videoPairs/pair0.mp4
+20058,stdout,received,'my_video1.frame: 100'
+20480,Video,playing,videoPairs/pair1.mp4
+23845,stdout,received,'my_video1.frame: 100'
+24287,Video,playing,videoPairs/pair2.mp4
+28319,stdout,received,'my_video1.frame: 100'
+28762,Video,playing,videoPairs/pair3.mp4
+32129,stdout,received,'my_video1.frame: 100'
+32582,Video,playing,videoPairs/pair4.mp4
+32869,stdout,received,'key: 104'
+33315,stdout,received,'key: 103'
+33621,stdout,received,'key: 102'
+34015,stdout,received,'key: 100'
+34948,stdout,received,'key: 105'
+35946,stdout,received,'my_video1.frame: 100'
+36381,Video,playing,videoPairs/pair5.mp4
+38853,Experiment,paused
+38863,Stimulus,presented,7
+41666,Keyboard,received,y,wait_char
+41666,Experiment,ended
+41673,Stimulus,presented,7

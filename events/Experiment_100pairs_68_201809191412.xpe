@@ -1,0 +1,89 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 14:12:41
+#sha1: 5a9f76
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+20554,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+20555,design,logged,
+20555,Experiment,started
+20626,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+22385,stdout,received,'size 1 (1280, 720)'
+22386,stdout,received,'size 2 (1280, 720)'
+22386,Video,playing,videos/zEyRyTnIw5I.004.mp4
+22389,Video,playing,videos/7ZnijRlK5-E.000.mp4
+22446,Stimulus,presented,3
+22500,Stimulus,presented,4
+22551,Stimulus,presented,3
+22607,Stimulus,presented,4
+22665,Stimulus,presented,3
+22713,Stimulus,presented,4
+22759,Stimulus,presented,3
+22806,Stimulus,presented,4
+22854,Stimulus,presented,3
+22901,Stimulus,presented,4
+22950,Stimulus,presented,3
+22989,Stimulus,presented,4
+23039,Stimulus,presented,3
+23079,Stimulus,presented,4
+23128,Stimulus,presented,3
+23173,Stimulus,presented,4
+23221,Stimulus,presented,3
+23277,Stimulus,presented,4
+23323,Stimulus,presented,3
+23377,Stimulus,presented,4
+23425,Stimulus,presented,3
+23475,Stimulus,presented,4
+23514,Stimulus,presented,3
+23556,Stimulus,presented,4
+23609,Stimulus,presented,3
+23652,Stimulus,presented,4
+23700,Stimulus,presented,3
+23746,Stimulus,presented,4
+23788,Stimulus,presented,3
+23835,Stimulus,presented,4
+23884,Stimulus,presented,3
+23929,Stimulus,presented,4
+23986,Stimulus,presented,3
+24026,Stimulus,presented,4
+24081,Stimulus,presented,3
+24120,Stimulus,presented,4
+24172,Stimulus,presented,3
+24215,Stimulus,presented,4
+24268,Stimulus,presented,3
+24314,Stimulus,presented,4
+24358,Stimulus,presented,3
+24412,Stimulus,presented,4
+24462,Stimulus,presented,3
+24513,Stimulus,presented,4
+24557,Stimulus,presented,3
+24606,Stimulus,presented,4
+24652,Stimulus,presented,3
+24701,Stimulus,presented,4
+24760,Stimulus,presented,3
+24807,Stimulus,presented,4
+24847,Stimulus,presented,3
+24898,Stimulus,presented,4
+24940,Stimulus,presented,3
+24987,Stimulus,presented,4
+25035,Stimulus,presented,3
+25080,Stimulus,presented,4
+25127,Stimulus,presented,3
+25181,Stimulus,presented,4
+25242,Stimulus,presented,3
+25294,Stimulus,presented,4
+25347,Stimulus,presented,3
+25392,Stimulus,presented,4
+25465,Stimulus,presented,3
+25520,Stimulus,presented,4
+25577,Stimulus,presented,3
+25621,Stimulus,presented,4
+25670,Stimulus,presented,3
+25710,Stimulus,presented,4
+25754,Stimulus,presented,3
+25795,Stimulus,presented,4
+26082,Experiment,ended
+26092,Stimulus,presented,5

@@ -1,0 +1,117 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 23:05:39
+#sha1: b02220
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+14997,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+14997,design,logged,
+14997,Experiment,started
+15657,Video,playing,videoPairs/pair0.mp4
+19028,stdout,received,'my_video1.frame: 100'
+19443,Video,playing,videoPairs/pair1.mp4
+22810,stdout,received,'my_video1.frame: 100'
+23229,Video,playing,videoPairs/pair2.mp4
+27259,stdout,received,'my_video1.frame: 100'
+27667,Video,playing,videoPairs/pair3.mp4
+31037,stdout,received,'my_video1.frame: 100'
+31497,Video,playing,videoPairs/pair4.mp4
+34861,stdout,received,'my_video1.frame: 100'
+35303,Video,playing,videoPairs/pair5.mp4
+38669,stdout,received,'my_video1.frame: 100'
+39110,Video,playing,videoPairs/pair6.mp4
+42473,stdout,received,'my_video1.frame: 100'
+42897,Video,playing,videoPairs/pair7.mp4
+46261,stdout,received,'my_video1.frame: 100'
+46704,Video,playing,videoPairs/pair8.mp4
+50074,stdout,received,'my_video1.frame: 100'
+50536,Video,playing,videoPairs/pair9.mp4
+53905,stdout,received,'my_video1.frame: 100'
+54349,Video,playing,videoPairs/pair10.mp4
+58384,stdout,received,'my_video1.frame: 100'
+58783,Video,playing,videoPairs/pair11.mp4
+62148,stdout,received,'my_video1.frame: 100'
+62581,Video,playing,videoPairs/pair12.mp4
+65950,stdout,received,'my_video1.frame: 100'
+66351,Video,playing,videoPairs/pair13.mp4
+69718,stdout,received,'my_video1.frame: 100'
+70137,Video,playing,videoPairs/pair14.mp4
+73509,stdout,received,'my_video1.frame: 100'
+73940,Video,playing,videoPairs/pair15.mp4
+77309,stdout,received,'my_video1.frame: 100'
+77774,Video,playing,videoPairs/pair16.mp4
+81141,stdout,received,'my_video1.frame: 100'
+81515,Video,playing,videoPairs/pair17.mp4
+84885,stdout,received,'my_video1.frame: 101'
+85352,Video,playing,videoPairs/pair18.mp4
+88723,stdout,received,'my_video1.frame: 100'
+89141,Video,playing,videoPairs/pair19.mp4
+92477,stdout,received,'my_video1.frame: 100'
+92952,Video,playing,videoPairs/pair20.mp4
+96320,stdout,received,'my_video1.frame: 100'
+96744,Video,playing,videoPairs/pair21.mp4
+100109,stdout,received,'my_video1.frame: 100'
+100554,Video,playing,videoPairs/pair22.mp4
+103934,stdout,received,'my_video1.frame: 101'
+104354,Video,playing,videoPairs/pair23.mp4
+107722,stdout,received,'my_video1.frame: 100'
+108164,Video,playing,videoPairs/pair24.mp4
+111529,stdout,received,'my_video1.frame: 100'
+111927,Video,playing,videoPairs/pair25.mp4
+115269,stdout,received,'my_video1.frame: 100'
+115802,Video,playing,videoPairs/pair26.mp4
+119140,stdout,received,'my_video1.frame: 100'
+119617,Video,playing,videoPairs/pair27.mp4
+122991,stdout,received,'my_video1.frame: 100'
+123448,Video,playing,videoPairs/pair28.mp4
+126814,stdout,received,'my_video1.frame: 100'
+127224,Video,playing,videoPairs/pair29.mp4
+130565,stdout,received,'my_video1.frame: 100'
+131181,Video,playing,videoPairs/pair30.mp4
+134519,stdout,received,'my_video1.frame: 100'
+134924,Video,playing,videoPairs/pair31.mp4
+138300,stdout,received,'my_video1.frame: 101'
+138799,Video,playing,videoPairs/pair32.mp4
+142164,stdout,received,'my_video1.frame: 100'
+142588,Video,playing,videoPairs/pair33.mp4
+145955,stdout,received,'my_video1.frame: 100'
+146366,Video,playing,videoPairs/pair34.mp4
+149743,stdout,received,'my_video1.frame: 101'
+150175,Video,playing,videoPairs/pair35.mp4
+153544,stdout,received,'my_video1.frame: 100'
+153979,Video,playing,videoPairs/pair36.mp4
+157345,stdout,received,'my_video1.frame: 100'
+157773,Video,playing,videoPairs/pair37.mp4
+158319,stdout,received,'key: 119'
+161052,stdout,received,'key: 119'
+161138,stdout,received,'my_video1.frame: 100'
+161553,Video,playing,videoPairs/pair38.mp4
+162962,stdout,received,'key: 119'
+164868,stdout,received,'key: 101'
+164932,stdout,received,'my_video1.frame: 101'
+165390,Video,playing,videoPairs/pair39.mp4
+166998,stdout,received,'key: 101'
+168695,stdout,received,'key: 101'
+168729,stdout,received,'my_video1.frame: 100'
+169374,Video,playing,videoPairs/pair40.mp4
+171158,stdout,received,'key: 114'
+172479,stdout,received,'key: 114'
+172715,stdout,received,'my_video1.frame: 100'
+173147,Video,playing,videoPairs/pair41.mp4
+173986,stdout,received,'key: 114'
+176520,stdout,received,'my_video1.frame: 100'
+176941,Video,playing,videoPairs/pair42.mp4
+180306,stdout,received,'my_video1.frame: 100'
+180882,Video,playing,videoPairs/pair43.mp4
+184220,stdout,received,'my_video1.frame: 100'
+184666,Video,playing,videoPairs/pair44.mp4
+188033,stdout,received,'my_video1.frame: 100'
+188463,Video,playing,videoPairs/pair45.mp4
+188540,Experiment,paused
+188553,Stimulus,presented,47
+189662,Keyboard,received,y,wait_char
+189663,Experiment,ended
+189678,Stimulus,presented,47

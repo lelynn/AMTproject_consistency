@@ -1,0 +1,35 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Tue Sep 18 2018 14:41:15
+#sha1: a09447
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11623,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11623,design,logged,
+11623,Experiment,started
+11670,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+11670,stdout,received,'size 1 None'
+11671,stdout,received,'size 2 None'
+13268,Video,playing,videos/7ZnijRlK5-E.000.mp4
+13271,Video,playing,videos/zEyRyTnIw5I.004.mp4
+13343,stdout,received,'1 video frame(s) dropped!'
+13343,Video,warning,1 video frame(s) dropped!
+19152,stdout,received,'1 video frame(s) dropped!'
+19153,Video,warning,1 video frame(s) dropped!
+19417,stdout,received,'1 video frame(s) dropped!'
+19418,Video,warning,1 video frame(s) dropped!
+19477,stdout,received,'1 video frame(s) dropped!'
+19478,Video,warning,1 video frame(s) dropped!
+19576,stdout,received,'1 video frame(s) dropped!'
+19577,Video,warning,1 video frame(s) dropped!
+21334,stdout,received,'1 video frame(s) dropped!'
+21335,Video,warning,1 video frame(s) dropped!
+21413,stdout,received,'1 video frame(s) dropped!'
+21413,Video,warning,1 video frame(s) dropped!
+21582,stdout,received,'2 video frame(s) dropped!'
+21582,Video,warning,2 video frame(s) dropped!
+28598,Experiment,ended
+28608,Stimulus,presented,3

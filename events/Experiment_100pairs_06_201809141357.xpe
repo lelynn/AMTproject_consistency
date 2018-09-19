@@ -1,0 +1,22 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Fri Sep 14 2018 13:57:12
+#sha1: 9c0a89
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+10756,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+10756,design,logged,
+10756,Experiment,started
+10799,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+10828,stderr,received,'/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_video.py:294: RuntimeWarning: use movie: No module named movie\n(ImportError: No module named movie)\n  self._file = pygame.movie.Movie(unicode2byte(self._filename,'
+10829,stderr,received,'Traceback (most recent call last):'
+10829,stderr,received,'  File "Experiment_100pairs.py", line 51, in <module>'
+10829,stderr,received,'    my_video.preload()'
+10830,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_video.py", line 294, in preload'
+10830,stderr,received,'    self._file = pygame.movie.Movie(unicode2byte(self._filename,'
+10830,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/pygame/__init__.py", line 108, in __getattr__'
+10831,stderr,received,'    raise NotImplementedError(MissingPygameModule)'
+10831,stderr,received,'NotImplementedError: movie module not available\n(ImportError: No module named movie)'

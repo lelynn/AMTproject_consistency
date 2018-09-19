@@ -1,0 +1,21 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 12:50:37
+#sha1: 72330c
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11732,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11732,design,logged,
+11732,Experiment,started
+11812,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+13488,stdout,received,'size 1 (1280, 720)'
+13489,stdout,received,'size 2 (1280, 720)'
+13489,Video,playing,videos/zEyRyTnIw5I.004.mp4
+13492,Video,playing,videos/7ZnijRlK5-E.000.mp4
+22812,stdout,received,'1 video frame(s) dropped!'
+22812,Video,warning,1 video frame(s) dropped!
+28825,Experiment,ended
+28834,Stimulus,presented,3

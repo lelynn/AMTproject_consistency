@@ -1,0 +1,21 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 13:16:13
+#sha1: a306d8
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11042,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11042,design,logged,
+11043,Experiment,started
+11173,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+12907,stdout,received,'size 1 (1280, 720)'
+12907,stdout,received,'size 2 (1280, 720)'
+12907,Video,playing,videos/zEyRyTnIw5I.004.mp4
+12909,Video,playing,videos/7ZnijRlK5-E.000.mp4
+12933,stderr,received,'Traceback (most recent call last):'
+12933,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/Experiment_100pairs.py", line 70, in <module>'
+12936,stderr,received,'    my_video2.present(clear=False)'
+12937,stderr,received,"TypeError: present() got an unexpected keyword argument 'clear'"

@@ -1,0 +1,17 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Tue Sep 18 2018 14:46:06
+#sha1: 261c15
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11374,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11374,design,logged,
+11375,Experiment,started
+11422,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+12954,stderr,received,'Traceback (most recent call last):'
+12954,stderr,received,'  File "Experiment_100pairs.py", line 56, in <module>'
+12955,stderr,received,'    my_video1.size = (640, 360)'
+12955,stderr,received,"AttributeError: can't set attribute"

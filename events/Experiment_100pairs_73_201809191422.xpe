@@ -1,0 +1,21 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 14:22:23
+#sha1: 3cf539
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+13229,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+13229,design,logged,
+13230,Experiment,started
+13299,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+14429,stdout,received,'size 1 (1280, 720)'
+14429,Video,playing,videos/zEyRyTnIw5I.004.mp4
+14432,stderr,received,'Traceback (most recent call last):'
+14432,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/Experiment_100pairs.py", line 112, in <module>'
+14432,stderr,received,'    c1.plot(my_video1)'
+14433,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_visual.py", line 770, in plot'
+14434,stderr,received,'    if not stimulus._set_surface(stimulus._get_surface()):'
+14434,stderr,received,"AttributeError: 'Video' object has no attribute '_set_surface'"

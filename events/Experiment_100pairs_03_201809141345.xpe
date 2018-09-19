@@ -1,0 +1,23 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Fri Sep 14 2018 13:45:51
+#sha1: d40f00
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+10843,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+10844,design,logged,
+10844,Experiment,started
+10892,stdout,received,"Warning: Package 'mediadecoder' not installed!\nVideo backend will be set to 'pygame'."
+10892,stdout,received,"Warning: Package 'sounddevice' not installed!\nAudio will be played back using Pygame audiosystem."
+10920,stderr,received,'/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_video.py:294: RuntimeWarning: use movie: No module named movie\n(ImportError: No module named movie)\n  self._file = pygame.movie.Movie(unicode2byte(self._filename,'
+10921,stderr,received,'Traceback (most recent call last):'
+10921,stderr,received,'  File "Experiment_100pairs.py", line 51, in <module>'
+10922,stderr,received,'    my_video.preload()'
+10922,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_video.py", line 294, in preload'
+10922,stderr,received,'    self._file = pygame.movie.Movie(unicode2byte(self._filename,'
+10922,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/pygame/__init__.py", line 108, in __getattr__'
+10923,stderr,received,'    raise NotImplementedError(MissingPygameModule)'
+10923,stderr,received,'NotImplementedError: movie module not available\n(ImportError: No module named movie)'

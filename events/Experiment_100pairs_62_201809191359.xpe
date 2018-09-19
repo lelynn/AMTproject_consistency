@@ -1,0 +1,159 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 13:59:32
+#sha1: 566d7d
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11524,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11525,design,logged,
+11525,Experiment,started
+11599,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+13172,stdout,received,'size 1 (1280, 720)'
+13172,stdout,received,'size 2 (1280, 720)'
+13173,Video,playing,videos/zEyRyTnIw5I.004.mp4
+13175,Video,playing,videos/7ZnijRlK5-E.000.mp4
+13280,Stimulus,presented,3
+13343,Stimulus,presented,4
+13348,stdout,received,'4 video frame(s) dropped!'
+13349,Video,warning,4 video frame(s) dropped!
+13378,stdout,received,'5 video frame(s) dropped!'
+13378,Video,warning,5 video frame(s) dropped!
+13450,Stimulus,presented,3
+13499,Stimulus,presented,4
+13504,stdout,received,'3 video frame(s) dropped!'
+13504,Video,warning,3 video frame(s) dropped!
+13526,stdout,received,'3 video frame(s) dropped!'
+13526,Video,warning,3 video frame(s) dropped!
+13586,Stimulus,presented,3
+13637,Stimulus,presented,4
+13641,stdout,received,'3 video frame(s) dropped!'
+13641,Video,warning,3 video frame(s) dropped!
+13663,stdout,received,'3 video frame(s) dropped!'
+13663,Video,warning,3 video frame(s) dropped!
+13725,Stimulus,presented,3
+13771,Stimulus,presented,4
+13776,stdout,received,'3 video frame(s) dropped!'
+13776,Video,warning,3 video frame(s) dropped!
+13794,stdout,received,'3 video frame(s) dropped!'
+13795,Video,warning,3 video frame(s) dropped!
+13857,Stimulus,presented,3
+13903,Stimulus,presented,4
+13909,stdout,received,'3 video frame(s) dropped!'
+13909,Video,warning,3 video frame(s) dropped!
+13935,stdout,received,'3 video frame(s) dropped!'
+13935,Video,warning,3 video frame(s) dropped!
+13996,Stimulus,presented,3
+14040,Stimulus,presented,4
+14044,stdout,received,'4 video frame(s) dropped!'
+14044,Video,warning,4 video frame(s) dropped!
+14066,stdout,received,'3 video frame(s) dropped!'
+14066,Video,warning,3 video frame(s) dropped!
+14130,Stimulus,presented,3
+14191,Stimulus,presented,4
+14203,stdout,received,'3 video frame(s) dropped!'
+14204,Video,warning,3 video frame(s) dropped!
+14229,stdout,received,'4 video frame(s) dropped!'
+14229,Video,warning,4 video frame(s) dropped!
+14304,Stimulus,presented,3
+14360,Stimulus,presented,4
+14365,stdout,received,'4 video frame(s) dropped!'
+14366,Video,warning,4 video frame(s) dropped!
+14386,stdout,received,'4 video frame(s) dropped!'
+14386,Video,warning,4 video frame(s) dropped!
+14445,Stimulus,presented,3
+14493,Stimulus,presented,4
+14497,stdout,received,'3 video frame(s) dropped!'
+14498,Video,warning,3 video frame(s) dropped!
+14513,stdout,received,'3 video frame(s) dropped!'
+14513,Video,warning,3 video frame(s) dropped!
+14576,Stimulus,presented,3
+14625,Stimulus,presented,4
+14631,stdout,received,'3 video frame(s) dropped!'
+14631,Video,warning,3 video frame(s) dropped!
+14646,stdout,received,'3 video frame(s) dropped!'
+14646,Video,warning,3 video frame(s) dropped!
+14718,Stimulus,presented,3
+14768,Stimulus,presented,4
+14775,stdout,received,'3 video frame(s) dropped!'
+14775,Video,warning,3 video frame(s) dropped!
+14798,stdout,received,'3 video frame(s) dropped!'
+14798,Video,warning,3 video frame(s) dropped!
+14863,Stimulus,presented,3
+14904,Stimulus,presented,4
+14909,stdout,received,'3 video frame(s) dropped!'
+14909,Video,warning,3 video frame(s) dropped!
+14930,stdout,received,'3 video frame(s) dropped!'
+14930,Video,warning,3 video frame(s) dropped!
+15002,Stimulus,presented,3
+15046,Stimulus,presented,4
+15052,stdout,received,'4 video frame(s) dropped!'
+15052,Video,warning,4 video frame(s) dropped!
+15073,stdout,received,'3 video frame(s) dropped!'
+15074,Video,warning,3 video frame(s) dropped!
+15137,Stimulus,presented,3
+15183,Stimulus,presented,4
+15193,stdout,received,'3 video frame(s) dropped!'
+15193,Video,warning,3 video frame(s) dropped!
+15210,stdout,received,'3 video frame(s) dropped!'
+15210,Video,warning,3 video frame(s) dropped!
+15276,Stimulus,presented,3
+15335,Stimulus,presented,4
+15342,stdout,received,'3 video frame(s) dropped!'
+15342,Video,warning,3 video frame(s) dropped!
+15366,stdout,received,'4 video frame(s) dropped!'
+15366,Video,warning,4 video frame(s) dropped!
+15430,Stimulus,presented,3
+15480,Stimulus,presented,4
+15485,stdout,received,'4 video frame(s) dropped!'
+15485,Video,warning,4 video frame(s) dropped!
+15506,stdout,received,'3 video frame(s) dropped!'
+15506,Video,warning,3 video frame(s) dropped!
+15591,Stimulus,presented,3
+15633,Stimulus,presented,4
+15637,stdout,received,'3 video frame(s) dropped!'
+15637,Video,warning,3 video frame(s) dropped!
+15659,stdout,received,'4 video frame(s) dropped!'
+15659,Video,warning,4 video frame(s) dropped!
+15719,Stimulus,presented,3
+15771,Stimulus,presented,4
+15775,stdout,received,'3 video frame(s) dropped!'
+15776,Video,warning,3 video frame(s) dropped!
+15794,stdout,received,'3 video frame(s) dropped!'
+15794,Video,warning,3 video frame(s) dropped!
+15865,Stimulus,presented,3
+15909,Stimulus,presented,4
+15914,stdout,received,'4 video frame(s) dropped!'
+15914,Video,warning,4 video frame(s) dropped!
+15934,stdout,received,'3 video frame(s) dropped!'
+15934,Video,warning,3 video frame(s) dropped!
+15997,Stimulus,presented,3
+16038,Stimulus,presented,4
+16044,stdout,received,'2 video frame(s) dropped!'
+16044,Video,warning,2 video frame(s) dropped!
+16067,stdout,received,'3 video frame(s) dropped!'
+16067,Video,warning,3 video frame(s) dropped!
+16128,Stimulus,presented,3
+16188,Stimulus,presented,4
+16195,stdout,received,'4 video frame(s) dropped!'
+16195,Video,warning,4 video frame(s) dropped!
+16222,stdout,received,'4 video frame(s) dropped!'
+16222,Video,warning,4 video frame(s) dropped!
+16283,Stimulus,presented,3
+16332,Stimulus,presented,4
+16336,stdout,received,'3 video frame(s) dropped!'
+16336,Video,warning,3 video frame(s) dropped!
+16358,stdout,received,'3 video frame(s) dropped!'
+16358,Video,warning,3 video frame(s) dropped!
+16417,Stimulus,presented,3
+16458,Stimulus,presented,4
+16469,stdout,received,'3 video frame(s) dropped!'
+16469,Video,warning,3 video frame(s) dropped!
+16492,stdout,received,'3 video frame(s) dropped!'
+16493,Video,warning,3 video frame(s) dropped!
+16543,Stimulus,presented,3
+16594,Stimulus,presented,4
+16857,Experiment,ended
+16869,Stimulus,presented,5

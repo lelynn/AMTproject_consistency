@@ -1,0 +1,81 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Wed Sep 19 2018 13:58:13
+#sha1: 31bc3c
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+10957,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+10957,design,logged,
+10957,Experiment,started
+11182,stdout,received,'videos/7ZnijRlK5-E.000.mp4'
+13550,stdout,received,'size 1 (1280, 720)'
+13550,stdout,received,'size 2 (1280, 720)'
+13551,Video,playing,videos/zEyRyTnIw5I.004.mp4
+13554,Video,playing,videos/7ZnijRlK5-E.000.mp4
+13614,Stimulus,presented,3
+13678,Stimulus,presented,4
+13749,Stimulus,presented,3
+13867,Stimulus,presented,4
+13928,Stimulus,presented,3
+13989,Stimulus,presented,4
+14041,Stimulus,presented,3
+14093,Stimulus,presented,4
+14144,Stimulus,presented,3
+14195,Stimulus,presented,4
+14246,Stimulus,presented,3
+14287,Stimulus,presented,4
+14349,Stimulus,presented,3
+14399,Stimulus,presented,4
+14450,Stimulus,presented,3
+14497,Stimulus,presented,4
+14547,Stimulus,presented,3
+14595,Stimulus,presented,4
+14653,Stimulus,presented,3
+14710,Stimulus,presented,4
+14758,Stimulus,presented,3
+14807,Stimulus,presented,4
+14853,Stimulus,presented,3
+14900,Stimulus,presented,4
+14960,Stimulus,presented,3
+15015,Stimulus,presented,4
+15069,Stimulus,presented,3
+15118,Stimulus,presented,4
+15165,Stimulus,presented,3
+15232,Stimulus,presented,4
+15287,Stimulus,presented,3
+15343,Stimulus,presented,4
+15398,Stimulus,presented,3
+15447,Stimulus,presented,4
+15494,Stimulus,presented,3
+15548,Stimulus,presented,4
+15593,Stimulus,presented,3
+15661,Stimulus,presented,4
+15720,Stimulus,presented,3
+15770,Stimulus,presented,4
+15820,Stimulus,presented,3
+15862,Stimulus,presented,4
+15910,Stimulus,presented,3
+15956,Stimulus,presented,4
+16012,Stimulus,presented,3
+16059,Stimulus,presented,4
+16114,Stimulus,presented,3
+16169,Stimulus,presented,4
+16216,Stimulus,presented,3
+16265,Stimulus,presented,4
+16322,Stimulus,presented,3
+16374,Stimulus,presented,4
+16428,Stimulus,presented,3
+16479,Stimulus,presented,4
+16526,Stimulus,presented,3
+16591,Stimulus,presented,4
+16656,Stimulus,presented,3
+16711,Stimulus,presented,4
+16759,Stimulus,presented,3
+16812,Stimulus,presented,4
+16868,Stimulus,presented,3
+16924,Stimulus,presented,4
+17185,Experiment,ended
+17195,Stimulus,presented,5
