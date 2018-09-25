@@ -1,0 +1,17 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 21:47:31
+#sha1: 1654f4
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+12523,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+12524,design,logged,
+12524,Experiment,started
+13346,Video,playing,videoCroppedPairs/pair0.mp4
+13347,stderr,received,'Traceback (most recent call last):'
+13348,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 85, in <module>'
+13348,stderr,received,'    start_time = exp.clock.time()'
+13348,stderr,received,"TypeError: 'newint' object is not callable"

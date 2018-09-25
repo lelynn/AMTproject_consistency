@@ -1,0 +1,59 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 20:35:34
+#sha1: 66d32a
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11532,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11532,design,logged,
+11533,Experiment,started
+14498,Video,playing,videoCroppedPairs/pair0.mp4
+14508,Stimulus,presented,2
+14508,Stimulus,presented,3
+14509,Stimulus,presented,4
+14510,Stimulus,presented,5
+14571,stdout,received,'key: 13'
+17926,stdout,received,'my_video1.frame: 102'
+18938,Video,playing,videoCroppedPairs/pair1.mp4
+18947,Stimulus,presented,7
+18948,Stimulus,presented,8
+18949,Stimulus,presented,9
+18949,Stimulus,presented,10
+22542,stdout,received,'my_video1.frame: 107'
+23405,Video,playing,videoCroppedPairs/pair2.mp4
+23412,Stimulus,presented,12
+23413,Stimulus,presented,13
+23414,Stimulus,presented,14
+23415,Stimulus,presented,15
+27478,stdout,received,'my_video1.frame: 101'
+28425,Video,playing,videoCroppedPairs/pair3.mp4
+28433,Stimulus,presented,17
+28434,Stimulus,presented,18
+28434,Stimulus,presented,19
+28435,Stimulus,presented,20
+32369,stdout,received,'my_video1.frame: 117'
+33375,Video,playing,videoCroppedPairs/pair4.mp4
+33383,Stimulus,presented,22
+33384,Stimulus,presented,23
+33385,Stimulus,presented,24
+33385,Stimulus,presented,25
+37186,stdout,received,'my_video1.frame: 114'
+38336,Video,playing,videoCroppedPairs/pair5.mp4
+38344,Stimulus,presented,27
+38345,Stimulus,presented,28
+38346,Stimulus,presented,29
+38347,Stimulus,presented,30
+42023,stdout,received,'my_video1.frame: 110'
+43245,Video,playing,videoCroppedPairs/pair6.mp4
+43253,Stimulus,presented,32
+43254,Stimulus,presented,33
+43255,Stimulus,presented,34
+43255,Stimulus,presented,35
+45342,Experiment,paused
+45352,Stimulus,presented,36
+47005,Keyboard,received,y,wait_char
+47005,Experiment,ended
+47018,Stimulus,presented,36

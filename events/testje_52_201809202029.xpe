@@ -1,0 +1,83 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 20:29:02
+#sha1: bff22b
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+13877,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+13878,design,logged,
+13878,Experiment,started
+15433,Video,playing,videoCroppedPairs/pair0.mp4
+15441,Stimulus,presented,2
+15442,Stimulus,presented,3
+15442,Stimulus,presented,4
+15443,Stimulus,presented,5
+15549,stdout,received,'key: 13'
+20014,stdout,received,'my_video1.frame: 137'
+21319,Video,playing,videoCroppedPairs/pair1.mp4
+21329,Stimulus,presented,7
+21330,Stimulus,presented,8
+21330,Stimulus,presented,9
+21331,Stimulus,presented,10
+25955,stdout,received,'my_video1.frame: 138'
+26976,Video,playing,videoCroppedPairs/pair2.mp4
+26984,Stimulus,presented,12
+26985,Stimulus,presented,13
+26986,Stimulus,presented,14
+26987,Stimulus,presented,15
+30985,stdout,received,'my_video1.frame: 100'
+31949,Video,playing,videoCroppedPairs/pair3.mp4
+31956,Stimulus,presented,17
+31957,Stimulus,presented,18
+31958,Stimulus,presented,19
+31959,Stimulus,presented,20
+36249,stdout,received,'my_video1.frame: 128'
+37432,Video,playing,videoCroppedPairs/pair4.mp4
+37439,Stimulus,presented,22
+37440,Stimulus,presented,23
+37441,Stimulus,presented,24
+37442,Stimulus,presented,25
+40900,stdout,received,'my_video1.frame: 103'
+41837,Video,playing,videoCroppedPairs/pair5.mp4
+41844,Stimulus,presented,27
+41845,Stimulus,presented,28
+41846,Stimulus,presented,29
+41847,Stimulus,presented,30
+45969,stdout,received,'my_video1.frame: 123'
+46873,Video,playing,videoCroppedPairs/pair6.mp4
+46881,Stimulus,presented,32
+46882,Stimulus,presented,33
+46882,Stimulus,presented,34
+46883,Stimulus,presented,35
+50243,stdout,received,'my_video1.frame: 100'
+51172,Video,playing,videoCroppedPairs/pair7.mp4
+51180,Stimulus,presented,37
+51181,Stimulus,presented,38
+51182,Stimulus,presented,39
+51183,Stimulus,presented,40
+54871,stdout,received,'my_video1.frame: 110'
+55766,Video,playing,videoCroppedPairs/pair8.mp4
+55774,Stimulus,presented,42
+55775,Stimulus,presented,43
+55776,Stimulus,presented,44
+55777,Stimulus,presented,45
+59130,stdout,received,'my_video1.frame: 100'
+59671,Video,playing,videoCroppedPairs/pair9.mp4
+59675,Stimulus,presented,47
+59676,Stimulus,presented,48
+59676,Stimulus,presented,49
+59677,Stimulus,presented,50
+63036,stdout,received,'my_video1.frame: 100'
+63732,Video,playing,videoCroppedPairs/pair10.mp4
+63737,Stimulus,presented,52
+63737,Stimulus,presented,53
+63738,Stimulus,presented,54
+63738,Stimulus,presented,55
+64506,Experiment,paused
+64514,Stimulus,presented,56
+65878,Keyboard,received,y,wait_char
+65879,Experiment,ended
+65895,Stimulus,presented,56

@@ -1,0 +1,21 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Sun Sep 23 2018 13:59:16
+#sha1: 57ea5f
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11652,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11652,design,logged,
+11652,Experiment,started
+11671,stdout,received,'height 878'
+11671,stdout,received,'width 1440'
+12193,Video,playing,videoCroppedPairs/pair0.mp4
+12200,Stimulus,presented,2
+12203,Stimulus,presented,3
+12203,stderr,received,'Traceback (most recent call last):'
+12203,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 151, in <module>'
+12203,stderr,received,'    if key2result(key) == left_key:'
+12204,stderr,received,"NameError: name 'key' is not defined"

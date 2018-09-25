@@ -1,0 +1,18 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 09:50:48
+#sha1: 954430
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11423,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11423,design,logged,
+11423,Experiment,started
+12333,Video,playing,videoPairs/pair0.mp4
+12336,stderr,received,'Exception AttributeError: "\'TextBox\' object has no attribute \'_compression_filename\'" in <bound method TextBox.__del__ of <expyriment.stimuli._textbox.TextBox object at 0x11f816d50>> ignored'
+12336,stderr,received,'Traceback (most recent call last):'
+12336,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/Experiment_100pairs.py", line 56, in <module>'
+12336,stderr,received,"    expyriment.stimuli.TextBox('Friendly')"
+12336,stderr,received,'TypeError: __init__() takes at least 3 arguments (2 given)'

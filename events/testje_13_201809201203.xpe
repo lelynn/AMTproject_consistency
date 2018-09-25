@@ -1,0 +1,17 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 12:03:59
+#sha1: 002c98
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11066,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11066,design,logged,
+11066,Experiment,started
+11071,stderr,received,'Exception AttributeError: "\'TextLine\' object has no attribute \'_compression_filename\'" in <bound method TextLine.__del__ of <expyriment.stimuli._textline.TextLine object at 0x10844e510>> ignored'
+11071,stderr,received,'Traceback (most recent call last):'
+11071,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 12, in <module>'
+11071,stderr,received,"    left_text = xpy.stimuli.TextLine('Left', (3, 3), position=(0, -360))"
+11071,stderr,received,"TypeError: __init__() got multiple values for keyword argument 'position'"

@@ -1,0 +1,19 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 09:53:29
+#sha1: f7e2b5
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11076,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11077,design,logged,
+11077,Experiment,started
+11731,Video,playing,videoPairs/pair0.mp4
+11760,stderr,received,'Traceback (most recent call last):'
+11761,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/Experiment_100pairs.py", line 61, in <module>'
+11761,stderr,received,'    key_responses()'
+11761,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/Experiment_100pairs.py", line 20, in key_responses'
+11761,stderr,received,'    show_text()'
+11761,stderr,received,"NameError: global name 'show_text' is not defined"

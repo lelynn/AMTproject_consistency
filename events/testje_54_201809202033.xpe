@@ -1,0 +1,46 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 20:33:52
+#sha1: 1cd4d1
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+12997,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+12997,design,logged,
+12997,Experiment,started
+14782,Video,playing,videoCroppedPairs/pair0.mp4
+14797,Stimulus,presented,2
+14802,Stimulus,presented,3
+14803,Stimulus,presented,4
+14804,Stimulus,presented,5
+18888,stdout,received,'my_video1.frame: 122'
+19967,Video,playing,videoCroppedPairs/pair1.mp4
+19977,Stimulus,presented,7
+19980,Stimulus,presented,8
+19981,Stimulus,presented,9
+19981,Stimulus,presented,10
+25094,stdout,received,'my_video1.frame: 153'
+26105,Video,playing,videoCroppedPairs/pair2.mp4
+26113,Stimulus,presented,12
+26115,Stimulus,presented,13
+26116,Stimulus,presented,14
+26116,Stimulus,presented,15
+30115,stdout,received,'my_video1.frame: 100'
+31198,Video,playing,videoCroppedPairs/pair3.mp4
+31206,Stimulus,presented,17
+31208,Stimulus,presented,18
+31209,Stimulus,presented,19
+31210,Stimulus,presented,20
+35113,stdout,received,'my_video1.frame: 117'
+36184,Video,playing,videoCroppedPairs/pair4.mp4
+36189,Stimulus,presented,22
+36191,Stimulus,presented,23
+36192,Stimulus,presented,24
+36193,Stimulus,presented,25
+40121,Experiment,paused
+40130,Stimulus,presented,26
+40770,Keyboard,received,y,wait_char
+40771,Experiment,ended
+40782,Stimulus,presented,26

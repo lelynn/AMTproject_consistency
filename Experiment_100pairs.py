@@ -16,8 +16,16 @@ DF100 = pd.read_csv('DF100.csv')
 def key_responses():
     while not my_video.new_frame_available: #or not my_video2.new_frame_available:
         key = exp.keyboard.check()
+        # if key is None:
+        #     show_text()
         if key is not None:
             print "key:", key
+
+
+
+
+
+
 
 
         wkey = 119
@@ -30,8 +38,6 @@ def key_responses():
             answer = 'DON\'T KNOW'
         if key == rkey:
             answer = 'RIGHT'
-
-
 
 
 for pair in range(len(DF100)):
@@ -48,6 +54,8 @@ for pair in range(len(DF100)):
 
     my_video.play()
 
+    personality_text = expyriment.stimuli.TextBox('Friendly', (3,3))
+
 
     while my_video.is_playing and my_video.frame < 100:
 
@@ -55,6 +63,7 @@ for pair in range(len(DF100)):
 
         my_video.update()
 
+        personality_text.present(clear=False)
 
     print "my_video1.frame:",my_video.frame
 

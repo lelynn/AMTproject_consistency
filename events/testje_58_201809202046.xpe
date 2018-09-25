@@ -1,0 +1,92 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 20:46:57
+#sha1: 6addf2
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+10924,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+10925,design,logged,
+10925,Experiment,started
+12175,Video,playing,videoCroppedPairs/pair0.mp4
+12181,Stimulus,presented,2
+12182,Stimulus,presented,3
+12183,Stimulus,presented,4
+12184,Stimulus,presented,5
+15537,stdout,received,'my_video1.frame: 100'
+16028,Video,playing,videoCroppedPairs/pair1.mp4
+16032,Stimulus,presented,7
+16033,Stimulus,presented,8
+16033,Stimulus,presented,9
+16033,Stimulus,presented,10
+16701,stdout,received,'1 video frame(s) dropped!'
+16702,Video,warning,1 video frame(s) dropped!
+16933,stdout,received,'1 video frame(s) dropped!'
+16933,Video,warning,1 video frame(s) dropped!
+17468,stdout,received,'1 video frame(s) dropped!'
+17468,Video,warning,1 video frame(s) dropped!
+17740,stdout,received,'1 video frame(s) dropped!'
+17741,Video,warning,1 video frame(s) dropped!
+17869,stdout,received,'1 video frame(s) dropped!'
+17869,Video,warning,1 video frame(s) dropped!
+17993,stdout,received,'1 video frame(s) dropped!'
+17993,Video,warning,1 video frame(s) dropped!
+18039,stdout,received,'1 video frame(s) dropped!'
+18040,Video,warning,1 video frame(s) dropped!
+18233,stdout,received,'1 video frame(s) dropped!'
+18233,Video,warning,1 video frame(s) dropped!
+19388,stdout,received,'1 video frame(s) dropped!'
+19388,Video,warning,1 video frame(s) dropped!
+19405,stdout,received,'my_video1.frame: 101'
+20153,Video,playing,videoCroppedPairs/pair2.mp4
+20157,Stimulus,presented,12
+20158,Stimulus,presented,13
+20159,Stimulus,presented,14
+20159,Stimulus,presented,15
+22080,stdout,received,'2 video frame(s) dropped!'
+22080,Video,warning,2 video frame(s) dropped!
+24191,stdout,received,'my_video1.frame: 100'
+25013,Video,playing,videoCroppedPairs/pair3.mp4
+25019,Stimulus,presented,17
+25020,Stimulus,presented,18
+25022,Stimulus,presented,19
+25022,Stimulus,presented,20
+25322,stdout,received,'1 video frame(s) dropped!'
+25323,Video,warning,1 video frame(s) dropped!
+25431,stdout,received,'1 video frame(s) dropped!'
+25431,Video,warning,1 video frame(s) dropped!
+25597,stdout,received,'4 video frame(s) dropped!'
+25598,Video,warning,4 video frame(s) dropped!
+25802,stdout,received,'5 video frame(s) dropped!'
+25802,Video,warning,5 video frame(s) dropped!
+26150,stdout,received,'9 video frame(s) dropped!'
+26150,Video,warning,9 video frame(s) dropped!
+26734,stdout,received,'17 video frame(s) dropped!'
+26734,Video,warning,17 video frame(s) dropped!
+27589,stdout,received,'25 video frame(s) dropped!'
+27589,Video,warning,25 video frame(s) dropped!
+28726,stdout,received,'33 video frame(s) dropped!'
+28727,Video,warning,33 video frame(s) dropped!
+28744,stdout,received,'my_video1.frame: 111'
+29731,Video,playing,videoCroppedPairs/pair4.mp4
+29740,Stimulus,presented,22
+29741,Stimulus,presented,23
+29742,Stimulus,presented,24
+29742,Stimulus,presented,25
+30017,stdout,received,'1 video frame(s) dropped!'
+30017,Video,warning,1 video frame(s) dropped!
+30127,stdout,received,'2 video frame(s) dropped!'
+30127,Video,warning,2 video frame(s) dropped!
+30303,stdout,received,'4 video frame(s) dropped!'
+30304,Video,warning,4 video frame(s) dropped!
+30720,stdout,received,'12 video frame(s) dropped!'
+30720,Video,warning,12 video frame(s) dropped!
+31303,stdout,received,'16 video frame(s) dropped!'
+31303,Video,warning,16 video frame(s) dropped!
+31625,Experiment,paused
+31635,Stimulus,presented,26
+32838,Keyboard,received,y,wait_char
+32838,Experiment,ended
+32850,Stimulus,presented,26

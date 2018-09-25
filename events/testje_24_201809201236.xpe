@@ -1,0 +1,24 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 12:36:43
+#sha1: ed72cb
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+12998,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+12998,design,logged,
+12998,Experiment,started
+13794,Video,playing,videoPairs/pair0.mp4
+17159,stdout,received,'my_video1.frame: 100'
+17638,Video,playing,videoPairs/pair1.mp4
+21004,stdout,received,'my_video1.frame: 100'
+21437,Video,playing,videoPairs/pair2.mp4
+25469,stdout,received,'my_video1.frame: 100'
+25917,Video,playing,videoPairs/pair3.mp4
+27985,Experiment,paused
+27991,Stimulus,presented,9
+29047,Keyboard,received,y,wait_char
+29048,Experiment,ended
+29055,Stimulus,presented,9

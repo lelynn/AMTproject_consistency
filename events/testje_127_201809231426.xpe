@@ -1,0 +1,25 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Sun Sep 23 2018 14:26:13
+#sha1: b46d62
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+12135,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+12135,design,logged,
+12135,Experiment,started
+12154,stdout,received,'height 878'
+12155,stdout,received,'width 1440'
+12686,Video,playing,videoCroppedPairs/pair0.mp4
+12693,Stimulus,presented,2
+12696,Stimulus,presented,3
+12696,stderr,received,'Traceback (most recent call last):'
+12696,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 155, in <module>'
+12696,stderr,received,'    if sample_result[personalities[personality_index]] == left_key:'
+12697,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/pandas/core/series.py", line 766, in __getitem__'
+12699,stderr,received,'    result = self.index.get_value(self, key)'
+12699,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 3117, in get_value'
+12701,stderr,received,'    raise e1'
+12702,stderr,received,"KeyError: 'Friendly'"

@@ -1,0 +1,58 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 13:41:17
+#sha1: a02106
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11301,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11302,design,logged,
+11302,Experiment,started
+11994,Video,playing,videoPairs/pair0.mp4
+11997,Stimulus,presented,2
+11998,Stimulus,presented,3
+11998,Stimulus,presented,4
+11998,Stimulus,presented,5
+15334,stdout,received,'my_video1.frame: 100'
+15762,Video,playing,videoPairs/pair1.mp4
+15766,Stimulus,presented,7
+15767,Stimulus,presented,8
+15767,Stimulus,presented,9
+15767,Stimulus,presented,10
+19099,stdout,received,'my_video1.frame: 100'
+19556,Video,playing,videoPairs/pair2.mp4
+19559,Stimulus,presented,12
+19560,Stimulus,presented,13
+19560,Stimulus,presented,14
+19561,Stimulus,presented,15
+23559,stdout,received,'my_video1.frame: 100'
+24020,Video,playing,videoPairs/pair3.mp4
+24023,Stimulus,presented,17
+24023,Stimulus,presented,18
+24024,Stimulus,presented,19
+24024,Stimulus,presented,20
+27359,stdout,received,'my_video1.frame: 100'
+27840,Video,playing,videoPairs/pair4.mp4
+27843,Stimulus,presented,22
+27844,Stimulus,presented,23
+27844,Stimulus,presented,24
+27845,Stimulus,presented,25
+31176,stdout,received,'my_video1.frame: 100'
+31660,Video,playing,videoPairs/pair5.mp4
+31663,Stimulus,presented,27
+31664,Stimulus,presented,28
+31664,Stimulus,presented,29
+31664,Stimulus,presented,30
+34996,stdout,received,'my_video1.frame: 100'
+35511,Video,playing,videoPairs/pair6.mp4
+35515,Stimulus,presented,32
+35515,Stimulus,presented,33
+35516,Stimulus,presented,34
+35516,Stimulus,presented,35
+35550,Experiment,paused
+35561,Stimulus,presented,36
+36724,Keyboard,received,y,wait_char
+36724,Experiment,ended
+36733,Stimulus,presented,36

@@ -1,0 +1,18 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 12:05:00
+#sha1: 1b34a1
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+10880,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+10881,design,logged,
+10881,Experiment,started
+10888,stderr,received,'Traceback (most recent call last):'
+10888,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 13, in <module>'
+10888,stderr,received,'    left_text.plot(personality_text)'
+10888,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_visual.py", line 772, in plot'
+10889,stderr,received,'    "plot()"))'
+10890,stderr,received,'RuntimeError: Cannot call plot() on compressed stimuli!'

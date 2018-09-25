@@ -1,0 +1,20 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 12:38:47
+#sha1: 5eca8c
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+11351,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+11352,design,logged,
+11352,Experiment,started
+12024,Video,playing,videoPairs/pair0.mp4
+15389,stdout,received,'my_video1.frame: 100'
+26404,stdout,received,'Traceback (most recent call last):'
+26404,stdout,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 80, in <module>'
+26404,stdout,received,'    personality_text.plot(my_video)'
+26405,stdout,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_visual.py", line 770, in plot'
+26406,stdout,received,'    if not stimulus._set_surface(stimulus._get_surface()):'
+26406,stdout,received,"AttributeError: 'Video' object has no attribute '_set_surface'"

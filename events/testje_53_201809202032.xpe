@@ -1,0 +1,58 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 20:32:00
+#sha1: 03e770
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+12194,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+12195,design,logged,
+12195,Experiment,started
+13192,Video,playing,videoCroppedPairs/pair0.mp4
+13198,Stimulus,presented,2
+13198,Stimulus,presented,3
+13199,Stimulus,presented,4
+13199,Stimulus,presented,5
+16565,stdout,received,'my_video1.frame: 100'
+17367,Video,playing,videoCroppedPairs/pair1.mp4
+17373,Stimulus,presented,7
+17374,Stimulus,presented,8
+17375,Stimulus,presented,9
+17375,Stimulus,presented,10
+20877,stdout,received,'my_video1.frame: 105'
+21876,Video,playing,videoCroppedPairs/pair2.mp4
+21884,Stimulus,presented,12
+21885,Stimulus,presented,13
+21886,Stimulus,presented,14
+21887,Stimulus,presented,15
+25929,stdout,received,'my_video1.frame: 101'
+27009,Video,playing,videoCroppedPairs/pair3.mp4
+27016,Stimulus,presented,17
+27017,Stimulus,presented,18
+27018,Stimulus,presented,19
+27019,Stimulus,presented,20
+30935,stdout,received,'my_video1.frame: 117'
+32239,Video,playing,videoCroppedPairs/pair4.mp4
+32245,Stimulus,presented,22
+32246,Stimulus,presented,23
+32246,Stimulus,presented,24
+32248,Stimulus,presented,25
+36553,stdout,received,'my_video1.frame: 129'
+37529,Video,playing,videoCroppedPairs/pair5.mp4
+37537,Stimulus,presented,27
+37538,Stimulus,presented,28
+37539,Stimulus,presented,29
+37540,Stimulus,presented,30
+41782,stdout,received,'my_video1.frame: 127'
+42772,Video,playing,videoCroppedPairs/pair6.mp4
+42780,Stimulus,presented,32
+42782,Stimulus,presented,33
+42783,Stimulus,presented,34
+42784,Stimulus,presented,35
+45709,Experiment,paused
+45720,Stimulus,presented,36
+47711,Keyboard,received,y,wait_char
+47711,Experiment,ended
+47722,Stimulus,presented,36

@@ -1,0 +1,18 @@
+#Expyriment 0.9.0 (Python 2.7.15), .xpe-file, coding: UTF-8
+#date: Thu Sep 20 2018 13:02:39
+#sha1: 7efacd
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=2
+#os: ('Darwin', 'Lynns-MacBook-Air.local', '17.2.0', 'Darwin Kernel Version 17.2.0: Fri Sep 29 18:27:05 PDT 2017; root:xnu-4570.20.62~3/RELEASE_X86_64', 'x86_64', 'i386')
+Time,Type,Event,Value,Detail,Detail2
+12035,design,log,
+#design: #exp: First Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+12036,design,logged,
+12036,Experiment,started
+12829,stderr,received,'Traceback (most recent call last):'
+12829,stderr,received,'  File "/Users/lynn/Desktop/AMT Research assistantship/AMT_results/AMTproject_consistency/testje.py", line 60, in <module>'
+12830,stderr,received,'    personality_text.inside_stimulus(my_video)'
+12830,stderr,received,'  File "/Users/lynn/anaconda3/envs/py27/lib/python2.7/site-packages/expyriment/stimuli/_visual.py", line 550, in inside_stimulus'
+12831,stderr,received,'    other_size = stimulus.surface_size'
+12831,stderr,received,"AttributeError: 'Video' object has no attribute 'surface_size'"
