@@ -3,200 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dad21dad-cb1c-472c-bd34-a54cba87d2ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF100.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DF100.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiment_100pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment_100pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_01_201809141340.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_02_201809141341.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_03_201809141345.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_04_201809141353.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_05_201809141354.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_06_201809141357.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_07_201809141358.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_08_201809141400.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_09_201809141400.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_10_201809141401.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_11_201809181305.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_12_201809181310.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_13_201809181312.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_14_201809181427.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_15_201809181438.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_16_201809181441.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_17_201809181443.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_18_201809181446.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_19_201809181446.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_20_201809181450.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_21_201809181508.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_22_201809181535.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_23_201809181536.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_24_201809181543.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_25_201809191130.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_26_201809191250.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_27_201809191252.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_28_201809191254.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_29_201809191257.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_30_201809191259.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_31_201809191300.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_32_201809191305.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_33_201809191306.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_34_201809191307.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_35_201809191308.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_36_201809191309.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_37_201809191310.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_38_201809191311.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_39_201809191316.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_40_201809191317.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_41_201809191318.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_42_201809191320.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_43_201809191321.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_44_201809191322.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_45_201809191324.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_46_201809191331.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_47_201809191332.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_48_201809191334.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_49_201809191336.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_50_201809191336.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_51_201809191338.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_52_201809191340.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_53_201809191342.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_54_201809191343.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_55_201809191344.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_56_201809191345.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_57_201809191351.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_58_201809191353.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_59_201809191355.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_60_201809191357.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_61_201809191358.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_62_201809191359.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_63_201809191400.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_64_201809191403.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_65_201809191404.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_66_201809191406.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_67_201809191407.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_68_201809191412.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_69_201809191413.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_70_201809191419.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_71_201809191420.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_72_201809191421.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_73_201809191422.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_74_201809192246.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_75_201809192247.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_76_201809192250.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_77_201809192251.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_78_201809192253.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_79_201809192254.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Experiment_100pairs_80_201809192305.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_01_201809191131.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_02_201809191135.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_03_201809191137.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_04_201809191140.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_05_201809191140.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_06_201809191140.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_07_201809191141.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_08_201809191147.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testje_09_201809191250.xpd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testje.py" beforeDir="false" afterPath="$PROJECT_DIR$/testje.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair0.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair10.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair11.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair12.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair13.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair14.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair15.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair16.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair17.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair18.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair19.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair20.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair21.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair22.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair23.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair24.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair25.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair26.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair27.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair28.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair29.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair3.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair30.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair31.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair32.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair33.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair34.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair35.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair36.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair37.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair38.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair39.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair4.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair40.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair41.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair42.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair43.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair44.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair45.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair46.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair47.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair48.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair49.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair5.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair50.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair51.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair52.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair53.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair54.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair55.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair56.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair57.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair58.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair59.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair6.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair60.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair61.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair62.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair63.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair64.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair65.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair66.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair67.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair68.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair69.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair7.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair70.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair71.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair72.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair73.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair74.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair75.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair76.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair77.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair78.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair79.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair8.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair80.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair81.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair82.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair83.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair84.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair85.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair86.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair87.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair88.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair89.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair9.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair90.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair91.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair92.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair93.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair94.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair95.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair96.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair97.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair98.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videoPairs/pair99.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testje2_99_201809251039.xpd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_results/results_5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_results/results_5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_results/results_99.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testje2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testje2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +18,7 @@
     <session id="1166600157">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.9" value="1" />
@@ -230,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="5360" />
+          <entry key="py" value="5417" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="5360" />
+          <entry key="Python" value="5417" />
         </counts>
       </usages-collector>
     </session>
@@ -270,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testje2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2380">
-              <caret line="205" column="33" lean-forward="true" selection-start-line="205" selection-start-column="33" selection-end-line="205" selection-end-column="33" />
+            <state relative-caret-position="89">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -315,8 +125,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="432" />
-    <option name="y" value="23" />
+    <option name="x" value="1700" />
+    <option name="y" value="-236" />
     <option name="width" value="1008" />
     <option name="height" value="877" />
   </component>
@@ -324,20 +134,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AMTproject_consistency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AMTproject_consistency" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -455,7 +252,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="432" y="23" width="1008" height="877" extended-state="0" />
+    <frame x="1700" y="-236" width="1008" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49821642" weight="0.15608808" />
@@ -463,7 +260,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287841" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287841" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42183623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -534,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testje2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="205" column="33" lean-forward="true" selection-start-line="205" selection-start-column="33" selection-end-line="205" selection-end-column="33" />
+        <state relative-caret-position="89">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>

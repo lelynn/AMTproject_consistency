@@ -106,6 +106,10 @@ DF100 = pd.read_csv('DF100.csv')
 
 # result_df = pd.DataFrame()
 result_file = "my_results/results_{}.csv".format(exp.subject)
+# import os
+# if os.path.exists(result_file):
+#
+
 pd.DataFrame(columns=["videoLeft","videoRight","videoPair"] + personalities).to_csv(result_file)
 
 for pair in range(len(DF100)):
